@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1打印名字", "1打印名字\1打印名字.vcxproj", "{89FA5500-F648-4277-9979-BDA5ADE2EF52}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test.cpp", "test.cpp\test.cpp.vcxproj", "{FF162EC1-6E93-4605-988D-15FD146F8C61}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "数组的函数", "数组的函数\数组的函数.vcxproj", "{08A422E5-09DD-4FE9-9360-44B56DD5829A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89FA5500-F648-4277-9979-BDA5ADE2EF52}.Debug|Win32.ActiveCfg = Debug|Win32
+		{89FA5500-F648-4277-9979-BDA5ADE2EF52}.Debug|Win32.Build.0 = Debug|Win32
+		{89FA5500-F648-4277-9979-BDA5ADE2EF52}.Release|Win32.ActiveCfg = Release|Win32
+		{89FA5500-F648-4277-9979-BDA5ADE2EF52}.Release|Win32.Build.0 = Release|Win32
+		{FF162EC1-6E93-4605-988D-15FD146F8C61}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FF162EC1-6E93-4605-988D-15FD146F8C61}.Debug|Win32.Build.0 = Debug|Win32
+		{FF162EC1-6E93-4605-988D-15FD146F8C61}.Release|Win32.ActiveCfg = Release|Win32
+		{FF162EC1-6E93-4605-988D-15FD146F8C61}.Release|Win32.Build.0 = Release|Win32
+		{08A422E5-09DD-4FE9-9360-44B56DD5829A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{08A422E5-09DD-4FE9-9360-44B56DD5829A}.Debug|Win32.Build.0 = Debug|Win32
+		{08A422E5-09DD-4FE9-9360-44B56DD5829A}.Release|Win32.ActiveCfg = Release|Win32
+		{08A422E5-09DD-4FE9-9360-44B56DD5829A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
